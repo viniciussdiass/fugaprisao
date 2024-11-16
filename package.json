@@ -1,0 +1,16 @@
+{
+    "name": "jogo-fuga-prisao",
+    "version": "1.0.0",
+    "description": "Jogo interativo de fuga em uma prisão de segurança máxima, usando HTML, CSS e JavaScript.",
+    "main": "index.html",
+    "scripts": {
+      "start": "serve"
+    },
+    "keywords": ["html", "css", "javascript", "jogo", "fuga", "prisao"],
+    "author": "Vinicius",
+    "license": "MIT",
+    "devDependencies": {
+      "serve": "^13.0.2"
+    }
+  }
+  
